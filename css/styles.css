@@ -1,0 +1,20 @@
+  body {
+    background-color: #CFDAC8;
+  }
+
+/* Color pallet #7C9473 #CFDAC8 #E8EAE6 #CDD0CB */
+
+  hr {
+    border: none;
+    border-top: 11px dotted #7C9473;
+    height: 1px;
+    width: 10%;
+  }
+
+  h1{
+    color: #7C9473;
+  }
+
+  h3{
+    color: #7C9473;
+  }
