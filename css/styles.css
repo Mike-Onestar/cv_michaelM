@@ -1,20 +1,26 @@
-  body {
-    background-color: #CFDAC8;
-  }
+ /* Color pallet #7C9473 #CFDAC8 #E8EAE6 #CDD0CB */
 
-/* Color pallet #7C9473 #CFDAC8 #E8EAE6 #CDD0CB */
 
-  hr {
-    border: none;
-    border-top: 11px dotted #7C9473;
-    height: 1px;
-    width: 10%;
-  }
+h1{
+  margin-top: 0px;
+}
 
-  h1{
-    color: #7C9473;
-  }
+body{
+  margin: 0px;
+}
 
-  h3{
-    color: #7C9473;
-  }
+.top-container{
+  background-color: #CFDAC8;
+}
+
+.middle-container{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.bottom-container{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
