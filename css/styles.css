@@ -1,4 +1,4 @@
- /* Color pallet #7C9473 #CFDAC8 #E8EAE6 #CDD0CB */
+ /* Color pallet #36393E #FFFFFF #5865F2 #00A0D6 #933BF6 */
 
 
 h1{
@@ -21,7 +21,8 @@ body{
 }
 
 .top-container{
-  background-color: #CFDAC8;
+  background-color: #36393E;
+  color: #FFFFFF;
   position: relative;
   padding-top: 100px;
 }
