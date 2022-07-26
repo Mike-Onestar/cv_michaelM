@@ -1,4 +1,4 @@
- /* Color pallet #36393E #FFFFFF #5865F2 #00A0D6 #933BF6 */
+ /* Color pallet #36393E #FFFFFF #5865F2 #00A0D6 #933BF6 #181a1b #eeeeee */
 
 
 h1{
@@ -18,19 +18,24 @@ body{
   margin: 0px;
   text-align: center;
   font-family: 'Merriweather', serif;
+  background-color: #933BF6;
 }
 
 .top-container{
-  background-color: #36393E;
-  color: #FFFFFF;
+  background-color: #181a1b;
+  color: #eeeeee;
   position: relative;
   padding-top: 100px;
 }
 
 .middle-container{
+  background-color: #36393E;
+  color: #FFFFFF;
 }
 
 .bottom-container{
+  background-color: #36393E;
+  color: #FFFFFF;
 }
 
 .pro{
@@ -47,4 +52,51 @@ body{
   position: absolute;
   right: 300px;
   top: 50px;
+}
+
+a:link{
+  color: #5865F2;
+}
+
+a:visited{
+  color: #933BF6;
+}
+
+a:hover{
+
+}
+
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  margin: 0 auto;
+  text-align: left;
+  justify-content: space-between;
+  max-width: 50%;
+}
+
+.mindset{
+  width: 128px;
+}
+
+.tech-image1{
+  width: 128px;
+  display: flex;
+  margin: 0px;
+}
+
+.skills-list{
+  display: flex;
+}
+
+.tech-image2{
+  width: 128px;
+  position: absolute;
+  right: 10%;
+}
+
+.tech-image3{
+  width: 128px;
+  position: absolute;
 }
